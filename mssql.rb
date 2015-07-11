@@ -4,11 +4,10 @@
 
 class Mssql < Formula
   homepage ""
-  url "https://github.com/hanhan1978/mssql/archive/0.0.6.tar.gz"
-  version "0.0.6"
-  sha1 "4f50a9d98623e2d8aa810a729275b23eeb92cba5"
+  url "https://github.com/hanhan1978/mssql/archive/0.0.7.tar.gz"
+  version "0.0.7"
+  sha1 "659ffae132bcbc1260015ca259cedabb8bcf4b90"
 
-  # depends_on "cmake" => :build
   depends_on "readline"
   depends_on "freetds"
 
